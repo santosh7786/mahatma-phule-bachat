@@ -1,0 +1,2 @@
+rootProject.name = 'mahatma_phule_bachat_gat'
+include ':app'
