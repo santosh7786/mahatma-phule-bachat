@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078946411096",
+    "project_id": "mahatma-phule-bachat-gat",
+    "storage_bucket": "mahatma-phule-bachat-gat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078946411096:android:edf0d54fc2b66df07a902d",
+        "android_client_info": {
+          "package_name": "com.mahatmaphule.bachatgat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisAEPTcm-sZsFDyEXSQC8Q-jSKA3DDak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
