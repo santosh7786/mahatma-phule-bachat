@@ -1,4 +1,4 @@
-<manifest package="com.example.mahatma_phule_bachat_gat"
+<manifest package="com.santosh.mahatma.phule.bachatgat"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="mahatma_phule_bachat_gat"
