@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    namespace "com.example.mahatma_phule_bachat_gat"
+    namespace "com.santosh.mahatma.phule.bachatgat"
     compileSdk 34
     ndkVersion "25.1.9061338"
 
     defaultConfig {
-        applicationId "com.example.mahatma_phule_bachat_gat"
+        applicationId "com.santosh.mahatma.phule.bachatgat"
         minSdk 21
         targetSdk 34
         versionCode 1
